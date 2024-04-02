@@ -1,0 +1,34 @@
+Trabalho 01 de Redes de Computadores
+
+Questão 01
+I. Esta afirmativa está incorreta. Essa afirmativa está incorreta, pois a função de transferir/transmissão dos pacotes da origem ao destino fornecendo ligação entre as rede e recuperação de erros é função da camada de "Enlace de Dados", ou seja, a função da camada de redes é ser responsável pelo roteamento de dados de sistemas finais através de uma rede.
+II. Esta afirmativa está correta.
+III. Esta afirmativa está incorreta. Essa afirmativa está incorreta, pois a função de criptografar e comprimir os dados é da camada de apresentação e não da camada de Transporte.
+
+
+Questão 02
+O modelo OSI tem como função fazer a explicação mais conceitual da transmissão em uma rede, ajudando a entender e como descrever como o dados são transmitidos em uma rede, sendo assim composta por sete camadas, sendo elas a Camada Física, Camada de Enlace de Dados, Camada de Rede, Camada de Transporte, Camada de Sessão, Camada de Apresentação e a Camada de Aplicação.
+O modelo TCP/IP é o mais utilizado em redes globais e locais, possibilitando os dispositivos se comunicarem, fornecendo uma estrutura flexível e escalável para a comunicação de rede, sendo assim neste modelo há 4 camadas, sendo elas a Camada de Interface de Rede, Camada de Internet, Camada de Transporte e Camada de Aplicação.
+Após a explicação de cada um, a diferença que percebemos é a de que o Modelo OSI foi feito mais para um ideia de compreensão do funcionamento das redes mesmo que sua utilização seja bem baixa, já na do modelo TCP/IP há um grande uso desse tipo de modelo no mundo, outra diferença é o tanto de camada utilizada de um em relação ao outro, pois em um(modelo OSI) cada camada faz tudo em específico separado, já na outra(modelo TCP/IP) se tem uma camada menor que possuem a junção das camdas citadas em modelo OSI, sendo assim um sistema mais robusto com os serviços juntados para cada camada em específico.
+
+
+Questão 03
+a) Ao encontrar o cliente eu iria fornecer como modelo as cinco topologias de redes, sendo elas a de Barramento, Arvore, Anel, Estrela e Malha.
+b) Sabemos que existe diversas formas de topologias e que cada uma delas atende a uma necessidade em específico da empresa, mas temos que levar em consideração ao conforto e eficiência que a rede propõe para a empresa, sendo assim neste caso eu indicaria a Topografia de Estrela, pois nela se um nó falhar a rede ainda funcionará, se precisa fazer manutenção de algum dispositivo ou adicionar/remover algum dispositivo, tal ato não irá afetar a rede, ou seja, ela ainda funcionará, nela  também é mais fácil de se identificar os problemas de desempenhos e isolá-los e seu gerenciamento  é de um local central, dentre todas as topologias creio que essa é a melhor, não é atoa que é a mais utilizada.
+
+
+Questão 04
+I. Esta afirmativa está correta.
+II. Esta afirmativa está incorreta. MAN tem como nome Metropolitan Area Network, de fato ele interconecta sendo um intermediário entre a LAN e WAN, o erro dessa afirmativa está na afirmação de ter conexões de longa distância, na verdade em comparação com as outras ela é na verdade de média distância tendo o local principal de transmissão de dentro da cidade, não a nivel de país que conecta uma cidade com outra, no caso somente a nível de município ou região metropolitana.
+III. Esta afirmativa está incorreta. WAN tem como nome Wide Area Network, ou seja, não se trata de uma variação de uma LAN, além do mais o nível de área geográfica não é limitada, eu diria que ilimitada, pois é capaz de ir ao espaço, no caso o satélite, sendo assim possível a conexão de LAN nessa WAN já que ela é de nível global, pode ajudar as LAN se conectarem mesmo sendo de espaços diferentes.
+
+
+Questão 05
+Tanto o IPv4 quanto o IPv6 são representados por uma sequência de números binários, ambos divididos em 4 partes, mas acontece que o IPv4 é o mais comum atualmente sendo composto por 32bits, as partes são chamadas de octetos por possuir 8 números e cada octeto é representado por um número decimal que varia de 0 a 255 e são divididos por ponto(.), tendo assim aproximadamente 4,3 bilhões de endereços úmicos, já o IPv6 é composto por 128 bits e são chamadas de blocos e cada bloco é representado por um número hexadecimal que varia de 0 a FFFF e são separados por 2 pontos(:), sendo capaz de ter aproximadamente 340 undecilhões de endereços. O motivo do surgimento mais recente que é o IPv6 é para substituir o IPv4 para resolver o problema de escassez de endereços, sem falar que o IPv6 oferece melhorias em termos de segurança, eficiência e suporte a novas tecnologias, sendo assim o mais adotado em relação ao IPv4.
+
+
+Questão 06
+Eu creio que o que está causando a não conexão do dispositivo seria o número do IP ser inexistente 192.311.20.256, sabemos que o número octeto ao ter 8 números 1, teria um valor total máximo de 255, ou seja, acima disso não existe, logo não se pode haver o número "311" e "256", para ficar estático tais números deve estar entre 0 e 255, o segundo octeto pode assumir qualquer número entre o estabelecido, já o último octeto não pode assumir o número 0 e 255, pois é número de host e o outro número de broadcast, ou seja pode assumir números de 1 até 254, sendo assim por exemplo o número de IP pode ser 192.161.20.63
+
+
+a partir da 7 eu fiz no caderno as questões, eu não consiguiria fazer por aqui.
