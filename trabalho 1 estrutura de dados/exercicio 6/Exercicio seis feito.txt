@@ -1,0 +1,1 @@
+6)A estrutura de dados que seria que seria mais adequada para gerenciar a ordem de execução de processos e threads seria a FIFO(First in First out), conhecido também como FILA, pois nela seria possível ver a posição ordenada que o sistema operacional irá executar, vendo assim a ordem das coisas.

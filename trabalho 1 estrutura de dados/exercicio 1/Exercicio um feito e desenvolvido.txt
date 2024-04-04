@@ -1,0 +1,67 @@
+1) primeiro tem-se a declaração do vetor e então vai para o Enquanto
+
+no primeiro momento i=0 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[0], ou seja temp = 0
+vetor[i]->vetor[0] ganha valor do vetor[9-0]->vetor[9], ou seja vetor[0] = 9
+vetor[9-i]->vetor[9] ganha valor de temp, ou seja vetor[9] = 0
+agora ocorre a incrementação e i valerá 1
+
+no segundo momento i=1 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[1], ou seja temp = 1
+vetor[i]->vetor[1] ganha valor do vetor[9-1]->vetor[8], ou seja vetor[1] = 8
+vetor[9-i]->vetor[8] ganha valor de temp, ou seja vetor[8] = 1
+agora ocorre a incrementação e i valerá 2
+
+no terceiro momento i=2 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[2], ou seja temp = 2
+vetor[i]->vetor[2] ganha valor do vetor[9-2]->vetor[7], ou seja vetor[2] = 7
+vetor[9-i]->vetor[7] ganha valor de temp, ou seja vetor[7] = 2
+agora ocorre a incrementação e i valerá 3
+
+no quarto momento i=3 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[3], ou seja temp = 3
+vetor[i]->vetor[3] ganha valor do vetor[9-3]->vetor[6], ou seja vetor[3] = 6
+vetor[9-i]->vetor[6] ganha valor de temp, ou seja vetor[6] = 3
+agora ocorre a incrementação e i valerá 4
+
+no quinto momento i=4 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[4], ou seja temp = 4
+vetor[i]->vetor[4] ganha valor do vetor[9-4]->vetor[5], ou seja vetor[4] = 5
+vetor[9-i]->vetor[5] ganha valor de temp, ou seja vetor[5] = 4
+agora ocorre a incrementação e i valerá 5
+							       0-1-2-3-4-5-6-7-8-9
+só uma coisa neste momento o vetor possui valor de "vetor[10]={9,8,7,6,5,4,3,2,1,0}"
+
+no sexto momento i=5 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[5], ou seja temp = 4
+vetor[i]->vetor[5] ganha valor do vetor[9-5]->vetor[4], ou seja vetor[5] = 5
+vetor[9-i]->vetor[4] ganha valor de temp, ou seja vetor[4] = 4
+agora ocorre a incrementação e i valerá 6
+
+no sétimo momento i=6 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[6], ou seja temp = 3
+vetor[i]->vetor[6] ganha valor do vetor[9-6]->vetor[3], ou seja vetor[6] = 6
+vetor[9-i]->vetor[3] ganha valor de temp, ou seja vetor[3] = 3
+agora ocorre a incrementação e i valerá 7
+
+no oitavo momento i=7 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[7], ou seja temp = 2
+vetor[i]->vetor[7] ganha valor do vetor[9-7]->vetor[2], ou seja vetor[7] = 7
+vetor[9-i]->vetor[2] ganha valor de temp, ou seja vetor[2] = 2
+agora ocorre a incrementação e i valerá 8
+
+no nono momento i=8 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[8], ou seja temp = 1
+vetor[i]->vetor[8] ganha valor do vetor[9-8]->vetor[1], ou seja vetor[8] = 8
+vetor[9-i]->vetor[1] ganha valor de temp, ou seja vetor[1] = 1
+agora ocorre a incrementação e i valerá 9
+
+no décimo momento i=9 ou seja menor que 10 logo continuar a rodar o programa
+temp ganha o valor do vetor[9], ou seja temp = 0
+vetor[i]->vetor[9] ganha valor do vetor[9-9]->vetor[0], ou seja vetor[9] = 9
+vetor[9-i]->vetor[0] ganha valor de temp, ou seja vetor[0] = 0
+agora ocorre a incrementação e i valerá 10
+
+no décimo primeiro momento i=10 ou seja igual a 10 logo o código irá parar
+a resposta que fica do vetor após todo esse processo é de:
+vetor[10]={0,1,2,3,4,5,6,7,8,9}
