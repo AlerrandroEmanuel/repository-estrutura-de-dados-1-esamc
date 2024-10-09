@@ -1,0 +1,49 @@
+Questão 01
+Compatibilidade entre dispositivos, interoperabilidade, segurança e confiabilidade nos padrões de comunicação e evolução e adaptação dos padrões para novas tecnologias.
+
+Questão 02
+Banda Larga:
+Refere-se a uma conexão de internet de alta velocidade que suporta múltiplos sinais e tráfegos simultâneos. É um termo que define a tecnologia usada para entregar internet rápida.
+Largura de Banda:
+É a quantidade máxima de dados que podem ser transmitidos por um canal de comunicação por unidade de tempo, medida em bits por segundo.
+
+Questão 03
+Um sistema de fechadura eletrônica pode ser desenvolvido usando duas tecnologias de acesso: RFID e NFC
+
+Questão 04
+F-DSL usa linhas telefônicas, não de TV a cabo.
+F-O custo é geralmente alto.
+V
+F-O 5GHz tem menos alcance
+
+Questão 05
+c)
+
+Questão 06
+FTTH
+Vantagem: Alta velocidade e baixa latência.
+Desvantagem: Custo elevado de implantação.
+ADSL
+Vantagem: Utiliza a infraestrutura de linha telefônica existente.
+Desvantagem: Velocidade assimétrica
+Cable Modem
+Vantagem: Oferece maiores velocidades que o ADSL.
+Desvantagem: Performance pode ser afetada por congestionamento da rede.
+
+Questão 07
+V
+V
+F
+V
+F
+
+Questão 08
+F
+V
+F
+
+Questão 09
+2.4Ghz.
+
+Questão 10
+e)
